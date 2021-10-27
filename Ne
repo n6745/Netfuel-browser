@@ -1,0 +1,151 @@
+<ul class="dow-list">
+  <li>
+    <div class="dow-list__item padding-xs">
+      <div class="flex flex-column gap-xs flex-row@xs justify-between@xs items-center@xs">
+        <div class="flex items-center">
+          <!-- file icon -->
+          <svg class="icon icon--lg margin-right-xxs" viewBox="0 0 48 48">
+            <path d="M30,1H9A4,4,0,0,0,5,5V43a4,4,0,0,0,4,4H39a4,4,0,0,0,4-4V14Z" fill="var(--color-contrast-low)" />
+            <polygon points="30 14 43 14 30 1 30 14" fill="var(--color-contrast-lower)" />
+            <rect x="11" y="20" width="26" height="2" fill="var(--color-contrast-higher)" />
+            <rect x="11" y="26" width="26" height="2" fill="var(--color-contrast-higher)" />
+            <rect x="11" y="32" width="14" height="2" fill="var(--color-contrast-higher)" />
+          </svg>
+
+          <!-- file info -->
+          <div>
+            <h3 class="text-base line-height-1 margin-bottom-xxxs">File Name One</h3>
+
+            <ul class="dow-list__metadata-list text-sm text-xs@md color-contrast-medium">
+              <li>1 file</li>
+              <li>20 MB</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- button -->
+        <div class="padding-right-xxxxs@xs">
+          <button class="dow-list__btn btn btn--primary width-100% padding-0">
+            <span class="dow-list__btn-label padding-y-xxs padding-x-md">Download</span>
+
+            <div class="dow-list__icon-wrapper">
+              <svg class="dow-list__icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <g class="dow-list__icon-group">
+                  <line x1="10" y1="18" x2="10" y2="2" />
+                  <line x1="5" y1="13" x2="10" y2="18" />
+                  <line x1="10" y1="18" x2="15" y2="13" />
+                  <path d="M10,18a8,8,0,1,1,8-8,8,8,0,0,1-8,8" />
+                  <path d="M2,10a8,8,0,1,1,8,8" />
+                  <polyline points="2 10 7 15 18 4" />
+                  <path d="M10,2a8,8,0,0,1,0,16" />
+                  <line x1="10" y1="2" x2="10" y2="12" />
+                  <circle cx="10" cy="17.5" r="1.5" fill="currentColor" stroke="none" />
+                </g>
+              </svg>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </li>
+
+  <li>
+    <div class="dow-list__item padding-xs">
+      <div class="flex flex-column gap-xs flex-row@xs justify-between@xs items-center@xs">
+        <div class="flex items-center">
+          <!-- file icon -->
+          <svg class="icon icon--lg margin-right-xxs" viewBox="0 0 48 48">
+            <path d="M30,1H9A4,4,0,0,0,5,5V43a4,4,0,0,0,4,4H39a4,4,0,0,0,4-4V14Z" fill="var(--color-contrast-low)" />
+            <polygon points="30 14 43 14 30 1 30 14" fill="var(--color-contrast-lower)" />
+            <rect x="11" y="20" width="26" height="2" fill="var(--color-contrast-higher)" />
+            <rect x="11" y="26" width="26" height="2" fill="var(--color-contrast-higher)" />
+            <rect x="11" y="32" width="14" height="2" fill="var(--color-contrast-higher)" />
+          </svg>
+
+          <!-- file info -->
+          <div>
+            <h3 class="text-base line-height-1 margin-bottom-xxxs">File Name Two</h3>
+
+            <ul class="dow-list__metadata-list text-sm text-xs@md color-contrast-medium">
+              <li>2 files</li>
+              <li>45 MB</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- button -->
+        <div class="padding-right-xxxxs@xs">
+          <button class="dow-list__btn btn btn--primary width-100% padding-0">
+            <span class="dow-list__btn-label padding-y-xxs padding-x-md">Download</span>
+
+            <div class="dow-list__icon-wrapper">
+              <svg class="dow-list__icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <g class="dow-list__icon-group">
+                  <line x1="10" y1="18" x2="10" y2="2" />
+                  <line x1="5" y1="13" x2="10" y2="18" />
+                  <line x1="10" y1="18" x2="15" y2="13" />
+                  <path d="M10,18a8,8,0,1,1,8-8,8,8,0,0,1-8,8" />
+                  <path d="M2,10a8,8,0,1,1,8,8" />
+                  <polyline points="2 10 7 15 18 4" />
+                  <path d="M10,2a8,8,0,0,1,0,16" />
+                  <line x1="10" y1="2" x2="10" y2="12" />
+                  <circle cx="10" cy="17.5" r="1.5" fill="currentColor" stroke="none" />
+                </g>
+              </svg>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </li>
+
+  <li>
+    <div class="dow-list__item padding-xs">
+      <div class="flex flex-column gap-xs flex-row@xs justify-between@xs items-center@xs">
+        <div class="flex items-center">
+          <!-- file icon -->
+          <svg class="icon icon--lg margin-right-xxs" viewBox="0 0 48 48">
+            <path d="M30,1H9A4,4,0,0,0,5,5V43a4,4,0,0,0,4,4H39a4,4,0,0,0,4-4V14Z" fill="var(--color-contrast-low)" />
+            <polygon points="30 14 43 14 30 1 30 14" fill="var(--color-contrast-lower)" />
+            <rect x="11" y="20" width="26" height="2" fill="var(--color-contrast-higher)" />
+            <rect x="11" y="26" width="26" height="2" fill="var(--color-contrast-higher)" />
+            <rect x="11" y="32" width="14" height="2" fill="var(--color-contrast-higher)" />
+          </svg>
+
+          <!-- file info -->
+          <div>
+            <h3 class="text-base line-height-1 margin-bottom-xxxs">File Name Three</h3>
+
+            <ul class="dow-list__metadata-list text-sm text-xs@md color-contrast-medium">
+              <li>3 files</li>
+              <li>80 MB</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- button -->
+        <div class="padding-right-xxxxs@xs">
+          <button class="dow-list__btn btn btn--primary width-100% padding-0">
+            <span class="dow-list__btn-label padding-y-xxs padding-x-md">Download</span>
+
+            <div class="dow-list__icon-wrapper">
+              <svg class="dow-list__icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <g class="dow-list__icon-group">
+                  <line x1="10" y1="18" x2="10" y2="2" />
+                  <line x1="5" y1="13" x2="10" y2="18" />
+                  <line x1="10" y1="18" x2="15" y2="13" />
+                  <path d="M10,18a8,8,0,1,1,8-8,8,8,0,0,1-8,8" />
+                  <path d="M2,10a8,8,0,1,1,8,8" />
+                  <polyline points="2 10 7 15 18 4" />
+                  <path d="M10,2a8,8,0,0,1,0,16" />
+                  <line x1="10" y1="2" x2="10" y2="12" />
+                  <circle cx="10" cy="17.5" r="1.5" fill="currentColor" stroke="none" />
+                </g>
+              </svg>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
